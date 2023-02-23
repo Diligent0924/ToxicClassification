@@ -18,5 +18,12 @@
   * evaluation_strategy = 'epoch'
 * metrics : 'glue','mrpc'
 
-# 결과값
+# Epoch 그래프
 ![image](https://user-images.githubusercontent.com/62194486/220803605-986b0649-81dd-4c8b-bf72-66fa020b7e92.png)
+
+
+# 결과값
+* 약 80% 정확도
+
+# 후기
+독학으로 자연어처리를 진행하였는데 새로운 모델을 배울 수 있어서 많은 도움이 되었다. 다만, BERT 모델 자체를 이해하기는 너무 어려웠으며 Tokenizing과 Attention에 대한 개념만 조금 이해를 한 정도였다. 이러한 모델링이 있다는 것에 대한 경험을 했다는 것에 만족해야할 것 같으며 만약 깊게 들어가고자 한다면 석/박사를 연계하여 진행해야할 것 같다.
